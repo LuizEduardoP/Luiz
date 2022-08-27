@@ -5,18 +5,17 @@
  */
 package githubaula1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author luiz.padilha1
  */
-public class GitHubAula1 {
+public class Carro {
     public static void main(String[] args) {
-        System.out.println("HELLO WORlD");
-        System.out.println("BEM VINDO AO GIT");
-        
-        
+    
+        Scanner leia = new Scanner(System.in);
         
         
     }
-    
 }
